@@ -68,5 +68,5 @@ need to compare against the strings `"A"` or `"&"`.
 
 ## License
 
-Licensed under The Unlicense. See `keynames.py` for full license text. 
+Licensed under The Unlicense. See `keycodes.py` for full license text. 
 
